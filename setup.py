@@ -7,9 +7,6 @@ setup(name='talon_main',
       version='0.2',
       description=("Mailgun library "
                    "to extract message quotations and signatures."),
-      author='Mailgun Inc.',
-      author_email='7013366431rcb@gmail.com',
-      url='https://github.com/Rohith0007/talon_2',
       license='APACHE2',
       
       include_package_data=True,
